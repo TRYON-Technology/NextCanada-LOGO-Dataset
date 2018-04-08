@@ -1,1 +1,1 @@
-<annotation><filename>54.png</filename><size><width>416</width><height>416</height><depth>3</depth></size><object><name>NextAI</name><bndbox><xmin>125</xmin><xmax>68</xmax><ymin>220</ymin><ymax>161</ymax></bndbox></object></annotation>
+<annotation><filename>54</filename><size><width>416</width><height>416</height><depth>3</depth></size><object><name>NextCanada</name><bndbox><xmin>254</xmin><xmax>37</xmax><ymin>343</ymin><ymax>122</ymax></bndbox></object></annotation>
