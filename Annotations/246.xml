@@ -1,1 +1,1 @@
-<annotation><filename>246</filename><size><width>416</width><height>416</height><depth>3</depth></size><object><name>NextAI</name><bndbox><xmin>268</xmin><xmax>141</xmax><ymin>344</ymin><ymax>211</ymax></bndbox></object></annotation>
+<annotation><filename>246</filename><size><width>416</width><height>416</height><depth>3</depth></size><object><name>NextAI</name><bndbox><xmin>202</xmin><ymin>187</ymin><xmax>304</xmax><ymax>287</ymax></bndbox></object></annotation>
